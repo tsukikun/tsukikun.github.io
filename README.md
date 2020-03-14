@@ -1,4 +1,4 @@
-hexo-theme-yilia
+博客主题来自：hexo-theme-yilia
 ================
 
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
